@@ -1,0 +1,5 @@
+1 Binary_Search Easy 100
+2 Two_Sum Easy 120
+3 Merge_Intervals Medium 180
+4 Binary_Lifting Hard 280
+5 Segment_Tree Hard 350
